@@ -5,3 +5,6 @@
 
 1. curl https://install.meteor.com/ | sh
 1. meteor create simple-todos
+1. cd simple-todos
+1. meteor
+1. update the HTML, JS and CSS
